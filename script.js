@@ -3,7 +3,7 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "My personal portfolio built using HTML, CSS, JS",
-    link: "#"
+    link: "https://github.com/Keshav-Gautam134/portfolio-website"
   },
   {
     title: "Student Management System",
